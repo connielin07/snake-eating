@@ -18,9 +18,12 @@ bin/
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
-/dist/
 /nbdist/
 /.nb-gradle/
+
+### Distribution ###
+/dist/*
+!/dist/snake_eating.jar
 
 ### VS Code ###
 .vscode/
